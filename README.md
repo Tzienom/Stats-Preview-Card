@@ -32,7 +32,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots)
+![375px solution](./screenshots/375px-Screen-Shot.png)
+![1440px solution](./screenshots/1440px-Screen-Shot.png)
+![HTML code](./screenshots/html.png)
+![CSS code](./screenshots/css.png)
+![CSS code](./screenshots/css2.png)
+![Media queries](./screenshots/queries.png)
+![Media queries](./screenshots/queries2.png)
+![Media queries](./screenshots/queries3.png)
+
 
 
 
@@ -45,9 +53,9 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
+- Mobile-first workflow
+
 
 
 
@@ -65,11 +73,13 @@ Also, I used ems and rems for my paddings, margins and font size. These css unit
 
 
 
+
 ### Continued development
 
-Responsive layout (media queries)
+- Responsive layout (media queries)
 
-Flexbox
+- Flexbox
+
 
 
 
