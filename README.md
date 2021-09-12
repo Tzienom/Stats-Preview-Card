@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Screenshot
 
-![375px solution](./screenshots/375px-Screen-Shot.png)
-![1440px solution](./screenshots/1440px-Screen-Shot.png)
+![375px solution](./screenshots/375pxSolution.png)
+![1440px solution](./screenshots/1440pxSolution.png)
 ![HTML code](./screenshots/html.png)
 ![CSS code](./screenshots/css.png)
 ![CSS code](./screenshots/css2.png)
